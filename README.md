@@ -45,3 +45,7 @@ To be reviewed annually.
 
 # Current membersip
 Please add yourself!
+
+ * [Ben Anderson](https://github.com/dataknut) - [University of Southampton](https://www.southampton.ac.uk/engineering/about/staff/ba1e12.page?#publications)
+ * ?
+ * ?
