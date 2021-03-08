@@ -38,9 +38,10 @@ Minutes, actions and decisions will be captured and made available in draft form
 # Frequency & duration of meetings
 
  * As required?
- * Bi-monthly?
+ * Midway between Expert Group meetings?
 
 # Review of Terms of Reference
+To be reviewed annually.
 
 # Current membersip
 Please add yourself!
