@@ -1,6 +1,6 @@
 # Terms of Reference
 
-DRAFT - for discussion. Feel free to edit. Github remembers all changes...
+DRAFT - for discussion. Feel free to edit. Github remembers all [changes](https://github.com/HCC-CCECF-DataGroup/ToR/commits/main/README.md)...
 
 # Purpose
 The Hampshire County Council Climate Change Expert Consultative Forum Data sub-group is an independent group set up to advise the County Council and Council officers on matters relating to GHG emissions data monitoring and reporting. 
