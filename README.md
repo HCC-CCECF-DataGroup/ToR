@@ -5,7 +5,11 @@ DRAFT - for discussion. Feel free to edit. Github remembers all [changes](https:
 # Purpose
 The Hampshire County Council Climate Change Expert Consultative Forum Data sub-group is an independent group set up to advise the County Council and Council officers on matters relating to GHG emissions data monitoring and reporting. 
 
-The sub-group's remit includes all data sources that pertain to the Scope 1, 2 and 3 GHG emissions of the Hampshire County and constituent local authorities.
+The sub-group's remit includes all data sources that pertain to the Scope 1, 2 and 3 GHG emissions of the Hampshire County Council and constituent local authorities. This includes, where relevant:
+
+ * operational emissions (emissions from Council and authorities' operations)
+ * territorial emissions from within the County boundary
+ * consumption-based emissions from within the County boundary
 
 # Responsibility
 Specific responsibilities are:
@@ -30,7 +34,7 @@ The agenda will be an agreed standing agenda with additional items set by the Ch
  * The title and brief description of each agenda item
  * The owner of each agenda item.
  * How long is required during the meeting for the item.
- * The outcome required- for note, action, decision, escalation.
+ * The outcome required - for note, action, decision, escalation.
  * Whether or not there are supporting papers
 Papers shall be available to each member and other persons required to attend no later than 3 working days before the date of the meeting.
 
